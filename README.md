@@ -1,0 +1,2 @@
+# Advance_Adapter_RecyclerView
+高性能、高效率、高解耦、高扩展的RecyclerView适配器，基于Databinding封装
